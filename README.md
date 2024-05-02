@@ -6,6 +6,10 @@ This README outlines an advanced web scraping project designed to collect soluti
 
 The goal of this project is to automate the process of fetching programming problem solutions from a specific section of the Algo Monster website, sanitize the content, and save it as markdown files. This process involves sending HTTP requests, parsing the HTML content, cleaning and reformatting the data, and finally, writing the output in a structured markdown format.
 
+## Video Preview
+
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-AlgoMonsterToMarkdown.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-AlgoMonsterToMarkdown.mp4)
+
 ## Tools and Libraries Used
 
 - **requests**: For sending HTTP requests to the target URL.

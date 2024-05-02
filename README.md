@@ -1,7 +1,5 @@
 # Algo Monster Scraping And Markdown Generator
 
-This README outlines an advanced web scraping project designed to collect solutions from the Algo Monster website and convert them into markdown files for easy reference and study. The project leverages Python, with `requests` for web requests, `BeautifulSoup` for HTML parsing, and `markdownify` for converting HTML to markdown. Additionally, a project demonstration video is included to showcase the process and functionality.
-
 ## Project Overview
 
 The goal of this project is to automate the process of fetching programming problem solutions from a specific section of the Algo Monster website, sanitize the content, and save it as markdown files. This process involves sending HTTP requests, parsing the HTML content, cleaning and reformatting the data, and finally, writing the output in a structured markdown format.
